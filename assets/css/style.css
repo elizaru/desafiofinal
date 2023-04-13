@@ -5,14 +5,22 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/foto.jpg");   
 
-  /* ARREGLAR POSICION DE MI FOTO
- */
+  background-color: darkslategray;
+  /* background-image: url("../img/foto.jpg");   
+
+
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: left;
+  background-position: left; */
 }
+
+/* #header .imagen {
+  margin: 15px auto;
+  display: block;
+  width: 120px;
+  border: 8px solid #2c2f3f
+}  */
 
 /* Mis trabajos */
 
